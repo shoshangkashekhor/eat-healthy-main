@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-size: 53px;
+    color: #575757;
+}
+
+p {
+    font-size: 22px;
+    color: darkcyan;
+}
+
+.orange-color {
+    color: #ff4800;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 55%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 70%;
+}
+
+.link-button {
+    text-decoration: none;
+    color: whitesmoke;
+    background-image: linear-gradient(tomato, #c36241);
+    padding: 10px 10px;
+    border-radius: 5px;
+
+}
+
+.size {
+    font-size: 49px;
+}
